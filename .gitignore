@@ -9,6 +9,5 @@ npm-debug.*
 *.orig.*
 web-build/
 .DS_Store
-/.idea
-/.idea/*
+.idea
 *.xml
