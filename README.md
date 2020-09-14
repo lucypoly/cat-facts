@@ -1,6 +1,6 @@
 # cat-facts
 
-
+* `npm install expo-cli --global`
 * clone the git repo `git clone https://github.com/lucypoly/cat-facts.git`
 * `cd` to the git repo and run `npm i`
 * Install the [expo client](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) app on your phone
