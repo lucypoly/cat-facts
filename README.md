@@ -16,5 +16,5 @@ This should have the app running on your phone.
 * Main components include: 
   - `App` - the entry component with loading indicator
   - `Facts` - container for the `List`, implementation of `Load more button`
-  - `List` - contsiner for `FlatList` and scroll logic
+  - `List` - container for `FlatList` and scroll logic
   - `Card` - items of `FlatList` that have random color
