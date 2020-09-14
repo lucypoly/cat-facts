@@ -1,11 +1,11 @@
 {
     "main": "src/App.tsx",
     "scripts": {
-        "start": "cat-facts/node_modules/.bin/expo start",
-        "android": "cat-facts/node_modules/.bin/expo start --android",
-        "ios": "cat-facts/node_modules/.bin/expo start --ios",
-        "web": "cat-facts/node_modules/.bin/expo start --web",
-        "eject": "cat-facts/node_modules/.bin/expo eject",
+        "start": "./node_modules/.bin/expo start",
+        "android": "./node_modules/.bin/expo start --android",
+        "ios": "./node_modules/.bin/expo start --ios",
+        "web": "./node_modules/.bin/expo start --web",
+        "eject": "./node_modules/.bin/expo eject",
         "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
         "precommit": "lint-staged"
     },
